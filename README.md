@@ -1,1 +1,1 @@
-This is a simple Javascript calculator I built using an online tutorial.
+This is a simple HTML/CSS/JS calculator I built using an online tutorial.
